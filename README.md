@@ -19,7 +19,7 @@ create a dummy check which triggers randomly and use deadman. Work with nagios* 
 
 use **watch command** to try the script
 
-    watch ./andom_nagios_state.sh
+    watch ./random_nagios_state.sh
 
 
 you should have randomly each 2sc a new nagios ready state (OK / WARNING / CRITICAL) :
